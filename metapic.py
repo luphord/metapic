@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-'''metapic - Command line tool for modifying picture metadata from file/folder names and config.
+'''metapic - Command line tool for modifying picture metadata
+from file/folder names and config.
 '''
 
 __author__ = '''luphord'''
@@ -11,7 +12,7 @@ __version__ = '''0.1.0'''
 
 from argparse import ArgumentParser, Namespace
 
-parser = ArgumentParser(description='''Command line tool for modifying picture metadata from file/folder names and config.''')
+parser = ArgumentParser(description=__doc__)
 parser.add_argument('--version',
                     help='Print version number',
                     default=False,
