@@ -1,7 +1,7 @@
 # metapic
 
 [![PyPI package](https://img.shields.io/pypi/v/metapic)](https://pypi.python.org/pypi/metapic)
-[![Build status](https://img.shields.io/travis/luphord/metapic)](https://travis-ci.org/luphord/metapic)
+[![Build status](https://travis-ci.com/luphord/metapic.svg)](https://travis-ci.com/luphord/metapic)
 
 Command line tool for modifying picture metadata from file/folder names and config.
 
